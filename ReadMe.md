@@ -44,14 +44,15 @@ em/bạn cần training lại trước khi vào dự án."
 - Quan hệ giữa user và student: quan hệ 1 - 1
 - Quan hệ giữa course và teacher: quan hệ n - 1
 - Quan hệ giữa course và student: quan hệ n - n
+https://github.com/chinhnd7/finish-exam/blob/master/Exam3.PNG
 
 ## Phần 4: Thiết kế RESTful API
    Link đến mã nguồn:
-
+https://github.com/chinhnd7/finish-exam/tree/master/P4/CourseAPI
 
 ## Phần 5: Lập trình Restful API
    Link đến mã nguồn:
-
+https://github.com/chinhnd7/finish-exam/tree/master/P5/CourseAPI
 
 ## Trắc nghiệm
 1. Điều nào không đúng khi nói về Design Pattern?
