@@ -28,12 +28,12 @@ em/bạn cần training lại trước khi vào dự án."
 4. Đề xuất của Vân là hợp lý. Ta nên tách riêng 1 phương thức tính số năm làm việc.
    
 5. Mã nguồn:
-   https://github.com/thaopm/CleanCodeHomework/tree/main/Phan%201/PostManagement
+https://github.com/chinhnd7/finish-exam/tree/master/PostManager
 
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
    Mã nguồn:
-
+https://github.com/chinhnd7/finish-exam/tree/master/GraphicsEditor
 
 ### 2. Composition over Inheritance và DI
 // Bỏ qua
